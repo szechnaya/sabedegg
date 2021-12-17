@@ -2,5 +2,8 @@
 
 
 ### How to use
-  https://remotedesktop.google.com/headless
+#### Open Headless
+#### Open Acces
+#### input your key in action
  
+#Done

@@ -7,7 +7,7 @@ on:
         description: 'Enter GG code'
         required: true
       pincode:
-        description: 'Six digit Pin'
+        description: 'Six digit GG Id'
         required: true
   
 jobs:
